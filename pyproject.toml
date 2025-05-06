@@ -1,0 +1,9 @@
+[project]
+name = "arktime"
+version = "0.1.0"
+description = "A simple CLI tool to track time spent on tasks and generate UTC-based receipts with HH:MM:SS precision."
+readme = "README.md"
+requires-python = ">=3.12.3"
+dependencies = [
+    "colorama>=0.4.6",
+]
